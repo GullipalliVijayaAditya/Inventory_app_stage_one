@@ -12,7 +12,7 @@
     <string name="unsaved_dialog_message">You have unsaved changes</string>
     <string name="unsaved_positive_response">Exit</string>
     <string name="unsaved_negative_response">Keep Editing</string>
-    <string name="confirm_dialog_message">Are you sure to delete this product ?</string>
+    <string name="confirm_dialog_message">Are you sure to delete this product?</string>
     <string name="confirm_dialog_positive">yes</string>
     <string name="confirm_dialog_negative">No</string>
     <string name="delete_failed_message">Failed to delete the pet</string>
